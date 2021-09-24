@@ -69,6 +69,6 @@ highlight_name: true
 
 I am a Master's student at Purdue University, West Lafayette, majoring in Computer Engineering and a self-motivated Embedded Systems & IoT enthusiast with keen interests in Wireless Sensor Networks, Computer Networks and Robotics.
 
-I did my B.E in Electronics and Communication Engineering from SRCOEM, Nagpur. Post which, I worked on research project at [NeWS Lab, IIT Hyderbad](https://newslab.iith.ac.in/) for six months. I have also in Accenture Pvt Ltd. for six months as Associate Software Engineer. 
+I completed my BE in Electronics and Communication Engineering at SRCOEM, Nagpur. I did a research internship at [NeWS Lab, IIT Hyderabad](https://newslab.iith.ac.in/index.html) in my final semester where I worked on privacy and energy efficiency in BMaaS clouds.  Additionally, I have been an associate software engineer with Accenture Pvt Ltd. for six months before joining my master's program. 
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
