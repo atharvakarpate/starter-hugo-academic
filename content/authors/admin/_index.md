@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Master's student at Purdue University, West Lafayette, majoring in Computer Engineering and a self-motivated Embedded Systems & IoT enthusiast with keen interests in Wireless Sensor Networks, Computer Networks and Robotics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I did my B.E in Electronics and Communication Engineering from SRCOEM, Nagpur. Post which, I worked on research project at [NeWS Lab, IIT Hyderbad](https://newslab.iith.ac.in/) for six months. I have also in Accenture Pvt Ltd. for six months as Associate Software Engineer. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
