@@ -18,4 +18,10 @@ title: Biography
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+
+feature:
+- description: 90%
+  icon: r-project
+  icon_pack: fab
+  name: R
 ---
