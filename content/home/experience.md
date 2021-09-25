@@ -30,9 +30,8 @@ experience:
     date_start: '2021-02-01'
     date_end: '2021-08-31'
     description: |2- 
-        
-#        * Worked in the embedded software development team which offers Internet of Things for clients.
-#	* Connecting individual sensor systems to get a real-time overview of the manufacturing operations.
+        * Worked in the embedded software development team which offers Internet of Things for clients.
+	* Connecting individual sensor systems to get a real-time overview of the manufacturing operations.
         
   - title: Professor of Semiconductor Physics
     company: University X
