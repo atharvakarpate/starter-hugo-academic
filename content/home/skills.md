@@ -20,14 +20,14 @@ feature:
   icon: code
   icon_pack: fas
   name: Programming Languages
-- description: 100%
-  icon: chart-line
+- description: OpenBMC, Arduino, QEMU, ROS
+  icon: microchip 
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Embedded Systems
+- description: MAAS, BIND9, Docker, LXD, Grafana, ROS, Git, OpenCV
+  icon: server
   icon_pack: fas
-  name: Photography
+  name: Tools & Technologies
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
