@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mainto: "atharvakarpate@gmail.com"
+  mailto: "atharvakarpate@gmail.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
