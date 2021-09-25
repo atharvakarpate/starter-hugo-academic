@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Associate Software Engineer 
     company: Accenture
-    company_url: ''
-    company_logo: 
+    company_url: 'https://www.accenture.com/'
+    company_logo: acnt
     location: Hyderabad
     date_start: '2021-02-01'
     date_end: '2021-08-31'
