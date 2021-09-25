@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: C, C++, Python, MATLAB, Bash
   icon: fa-code
-  icon_pack: fab
+  icon_pack: fas
   name: Programming Languages
 - description: 100%
   icon: chart-line
