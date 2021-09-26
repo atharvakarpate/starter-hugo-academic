@@ -33,7 +33,7 @@ experience:
         * Worked in the embedded software development team which offers Internet of Things for clients.
         * Connecting individual sensor systems to get a real-time overview of the manufacturing operations.
         
-  - title: Research Intern
+  - title: IASc-INSA-NASI Summer Research Fellow 
     company: NeWS Lab, IIT Hyderabad
     company_url: 'https://newslab.iith.ac.in/'
     company_logo: news_lab
