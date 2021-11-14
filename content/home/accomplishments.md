@@ -37,7 +37,7 @@ item:
   organization_url: 
   title: 'E-yantra: Pollinator-Bee'
 
-- certificate_url:
+- url: https://bbrc.in/wp-content/uploads/2021/01/13_14-SPL-Galley-proof-097.pdf
   date_end: "2020-12-31"
   date_start: "2020-01-25"
   description: |-
