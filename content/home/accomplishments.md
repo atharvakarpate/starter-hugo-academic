@@ -38,7 +38,7 @@ item:
   title: Industrial Fire Localization
   url: ""
 
-- certificate_url: https://github.com/atharvakarpate/E_Yantra_2019 
+- url: https://github.com/atharvakarpate/E_Yantra_2019 
   date_end: "2019-04-30"
   date_start: "2018-08-01"
   description: |-
