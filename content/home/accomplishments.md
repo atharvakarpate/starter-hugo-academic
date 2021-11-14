@@ -36,7 +36,6 @@ item:
   organization:
   organization_url: 
   title: 'E-yantra: Pollinator-Bee'
-{{< video library="true" src="Demo.mp4" controls="yes" >}}
 
 - certificate_url:
   date_end: "2020-12-31"
