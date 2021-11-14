@@ -27,7 +27,7 @@ item:
   date_end: "2019-04-30"
   date_start: "2018-08-01"
   description: |-
-      • Worked in a team of 4 to develop a UAV-based bio-mimicking system for the beepollination process.
+      • Worked in a team of 4 to develop a UAV-based bio-mimicking robotic system for the beepollination process.
 
       • Implemented PID algorithm for Indoor Localization of a Pluto-drone using Python and Whycon library of ROS.
 
