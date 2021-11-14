@@ -23,6 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- url: https://github.com/atharvakarpate/E_Yantra_2019 
+  date_end: "2019-04-30"
+  date_start: "2018-08-01"
+  description: |-
+      • Worked in a team of 4 to develop a UAV-based bio-mimicking system for the beepollination process.
+
+      • Implemented PID algorithm for Indoor Localization of a Pluto-drone using Python and Whycon library of ROS.
+
+      • Developed a path-planning and color detection node for drone movement using OpenCV
+
+  organization:
+  organization_url: 
+  title: 'E-yantra: Pollinator-Bee'
+{{< video library="true" src="Demo.mp4" controls="yes" >}}
+
 - certificate_url:
   date_end: "2020-12-31"
   date_start: "2020-01-25"
@@ -38,20 +53,6 @@ item:
   title: Industrial Fire Localization
   url: ""
 
-- url: https://github.com/atharvakarpate/E_Yantra_2019 
-  date_end: "2019-04-30"
-  date_start: "2018-08-01"
-  description: |-
-      • Worked in a team of 4 to develop a UAV-based bio-mimicking system for the beepollination process.
-
-      • Implemented PID algorithm for Indoor Localization of a Pluto-drone using Python and Whycon library of ROS.
-
-      • Developed a path-planning and color detection node for drone movement using OpenCV
-
-  organization:
-  organization_url: 
-  title: 'E-yantra: Pollinator-Bee'
-# url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 
 design:
