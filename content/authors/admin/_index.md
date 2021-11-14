@@ -67,7 +67,7 @@ email: "atharvakarpate@gmail.com"
 highlight_name: true
 ---
 
-I am a Master's student at Purdue University, West Lafayette, majoring in Computer Engineering. A self-motivated Embedded Systems & IoT enthusiast with keen interests in Firmware Development, Wireless Sensor Networks, Computer Networks and Robotics.
+I am a Master's student at Purdue University, West Lafayette, majoring in Computer Engineering. A self-motivated Embedded Systems & IoT enthusiast with keen interests in  Embedded Software, Firmware Development, Wireless Sensor Networks, Computer Networks and Robotics.
 
 I completed my B.E. in Electronics and Communication Engineering at SRCOEM, Nagpur. I did a research internship at [NeWS Lab, IIT Hyderabad](https://newslab.iith.ac.in/index.html) in my final semester where I worked on privacy and energy efficiency in BMaaS clouds.  Additionally, I have worked as an associate software engineer with Accenture Pvt Ltd. for six months before joining my master's program. 
 
