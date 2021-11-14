@@ -50,7 +50,6 @@ item:
 #  organization: Coursera
 #  organization_url: https://www.coursera.org
   title: Industrial Fire Localization
-  url: ""
 
 
 
